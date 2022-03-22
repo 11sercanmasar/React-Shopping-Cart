@@ -11,6 +11,13 @@ npm install
 npm start
 ```
 
+# View
+
+
+
+https://user-images.githubusercontent.com/93815030/159581542-8fcf6993-ca33-4066-8a45-d3b414970235.mp4
+
+
 # Technologies That Used
 |:point_down: Using Technologies|
 |------------------|
