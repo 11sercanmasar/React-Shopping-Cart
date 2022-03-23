@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/93815030/159581542-8fcf6993-ca33-4066-
 # Technologies That Used
 |:point_down: Using Technologies|
 |------------------|
-|:ballot_box_with_check:HTML              |
+
 |:ballot_box_with_check:Css               |
 |:ballot_box_with_check:Javascript        |
 |:ballot_box_with_check:React             |
